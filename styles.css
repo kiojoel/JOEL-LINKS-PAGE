@@ -46,7 +46,7 @@ body {
 .container h2 {
   color: #fff;
   margin-bottom: 5px;
-  font-size: 22px;
+  font-size: 25px;
   text-align: center;
   font-weight: 400;
 }
@@ -61,7 +61,7 @@ body {
 }
 .info p {
   color: var(--Teal);
-  font-size: 12px;
+  font-size: 15px;
   text-align: center;
 }
 .links {
@@ -75,7 +75,7 @@ a {
   padding: 10px 70px;
   border-radius: 8px;
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   cursor: pointer;
   text-align: center;
   font-weight: 700;
